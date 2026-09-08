@@ -42,7 +42,7 @@ export function ContactCard(): ReactNode {
               <div className="border-foreground/8 flex flex-col items-center justify-center gap-6 rounded-[1.1rem] border bg-background p-6 sm:p-8">
                 <div className="flex items-center gap-3 opacity-75">
                   <SocialIcon
-                    href="mailto:hello@example.com"
+                    href="mailto:abhijotsinghh01@gmail.com"
                     label="Email"
                     lucideIcon={Mail}
                   />
@@ -62,7 +62,7 @@ export function ContactCard(): ReactNode {
                     2026 &copy; Built with Next.js
                   </p>
                   <p className="text-[12px] tracking-tight text-foreground/45">
-                    By React Bits Pro
+                    Built by Abhijot Singh Sarin
                   </p>
                 </div>
               </div>
